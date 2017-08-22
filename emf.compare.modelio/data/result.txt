@@ -1,0 +1,1428 @@
+org.eclipse.emf.compare.impl.MatchResourceImpl@6f46426d (leftURI: ../ModelerModule/Analyst.profile, rightURI: ../ModelerModule/Analyst.profile, originURI: null, left: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@73700b80 uri='../ModelerModule/Analyst.profile', right: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@49c7b90e uri='../ModelerModule/Analyst.profile', origin: null)
+org.eclipse.emf.compare.impl.MatchResourceImpl@10d307f1 (leftURI: ../ModelerModule/default.profile, rightURI: ../ModelerModule/default.profile, originURI: null, left: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@4d5b6aac uri='../ModelerModule/default.profile', right: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@3e84448c uri='../ModelerModule/default.profile', origin: null)
+org.eclipse.emf.compare.impl.MatchResourceImpl@4a7f959b (leftURI: /Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/0/modelio/Analyst Properties/Analyst Properties.property, rightURI: /Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/1/modelio/Analyst Properties/Analyst Properties.property, originURI: null, left: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@429bffaa uri='/Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/0/modelio/Analyst Properties/Analyst Properties.property', right: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@5403f35f uri='/Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/1/modelio/Analyst Properties/Analyst Properties.property', origin: null)
+org.eclipse.emf.compare.impl.MatchResourceImpl@483f6d77 (leftURI: /Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/0/modelio/Analyst Properties/Analyst Properties.xmi, rightURI: /Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/1/modelio/Analyst Properties/Analyst Properties.xmi, originURI: null, left: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@7e5afaa6 uri='/Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/0/modelio/Analyst Properties/Analyst Properties.xmi', right: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@63a12c68 uri='/Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/1/modelio/Analyst Properties/Analyst Properties.xmi', origin: null)
+org.eclipse.emf.compare.impl.MatchResourceImpl@28f3b248 (leftURI: Analyst Properties.property, rightURI: Analyst Properties.property, originURI: null, left: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@1b1426f4 uri='Analyst Properties.property', right: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@32b260fa uri='Analyst Properties.property', origin: null)
+org.eclipse.emf.compare.impl.MatchResourceImpl@581ac8a8 (leftURI: Analyst%20Properties.xmi, rightURI: Analyst%20Properties.xmi, originURI: null, left: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@6d4e5011 uri='Analyst%20Properties.xmi', right: org.eclipse.emf.ecore.xmi.impl.XMIResourceImpl@57d7f8ca uri='Analyst%20Properties.xmi', origin: null)
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@67a20f67 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5649fd9b (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@67a20f67 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5649fd9b (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@67a20f67 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5649fd9b (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ResourceAttachmentChange /Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/0/modelio/Analyst Properties/Analyst Properties.xmi
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@353d0772 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@60c6f5b (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@353d0772 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@60c6f5b (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@353d0772 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@60c6f5b (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@353d0772 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@60c6f5b (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@353d0772 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@60c6f5b (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@353d0772 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@60c6f5b (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2473d930 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5649fd9b (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2473d930 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5649fd9b (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2473d930 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5649fd9b (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@17046283 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@124c278f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@17046283 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@124c278f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@17046283 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@124c278f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7ce3cb8e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@13acb0d1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7ce3cb8e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@13acb0d1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@48aaecc3 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@12d4bf7e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@48aaecc3 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@12d4bf7e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@18ce0030 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@54c562f7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@18ce0030 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@54c562f7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@10db82ae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@56a6d5a6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@10db82ae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@56a6d5a6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3d299e3 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@c8e4bb0 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3d299e3 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@c8e4bb0 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3d299e3 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@c8e4bb0 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@55ca8de8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@71c8becc (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f9eccc (eClass: org.eclipse.emf.ecore.impl.EClassImpl@3159c4b8 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@79efed2d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5a8e6209 (name: EnumeratedPropertyType) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1622f1b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3e92efc3 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@470f1802 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@70e8f8e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@61230f6a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5a63f509 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c419631 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c419631 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c419631 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@48e4374 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@10e41621 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3ba9ad43 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3ba9ad43 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3ba9ad43 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2e4b8173 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3e2e18f2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f96c77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5be6e01c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2d2e5f00 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@36c88a32 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@36c88a32 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@36c88a32 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6af93788 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1e67a849 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1b1473ab (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1b1473ab (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1b1473ab (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3aefe5e5 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@157632c9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@47d90b9e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@47d90b9e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@47d90b9e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c22fc4c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b546384 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3eb7fc54 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3eb7fc54 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3eb7fc54 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6ef888f6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@163e4e87 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4386f16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3cc2931c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@363ee3a2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1f3f4916 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7f552bd3 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6e0dec4a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1184ab05 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@670002 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2f7c2f4f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7f010382 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7880cdf3 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3967e60c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1534f01b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6d2a209c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1677d1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6328d34a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@12e61fe6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@12e61fe6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@12e61fe6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51e5fc98 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@8e0379d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5dd6264 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5dd6264 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5dd6264 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@159f197 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2890c451 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6193932a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6193932a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6193932a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5276e6b0 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3ec300f1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@12b0404f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@12b0404f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@12b0404f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@56de5251 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@400cff1a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2bbf180e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2bbf180e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2bbf180e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4e91d63f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1a84f40f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2f112965 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2f112965 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2f112965 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6ac13091 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@10e92f8f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@318ba8c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@33afa13b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4f638935 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@229d10bd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@229d10bd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@229d10bd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6973bf95 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2cbb3d47 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@15b204a1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@add0edd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4278a03f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@290d210d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2928854b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@501edcf1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@65d6b83b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@197d671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4c1d9d4b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@22635ba0 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11a9e7c8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6293abcc (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@222114ba (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@70be0a2b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@78e94dcf (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7d3a22a9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@38c5cc4c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@38c5cc4c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@38c5cc4c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@309e345f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@78047b92 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5db250b4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2805c96b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4c6e276e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@23529fee (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@23529fee (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@23529fee (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7f1302d6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1d548a08 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7692d9cc (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7692d9cc (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7692d9cc (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6b19b79 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@50a7bc6e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1d082e88 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1d082e88 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1d082e88 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1e730495 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4034c28c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@23986957 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@23986957 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@23986957 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2133814f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5b0abc94 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@f8c1ddd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@f8c1ddd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@f8c1ddd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7995092a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2aa5fe93 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5a955565 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5a955565 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5a955565 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2fd6b6c7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75329a49 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1df82230 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4b44655e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6f3b5d16 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2aa3cd93 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2aa3cd93 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2aa3cd93 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7ff95560 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@143640d5 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@527e5409 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@527e5409 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@527e5409 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7fc229ab (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@436a4e4b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4387b79e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4387b79e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4387b79e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1460a8c0 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7ee955a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@8909f18 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@8909f18 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@8909f18 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1d76aeea (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@258e2e41 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@11dc3715 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@19d37183 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5762806e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e4c8041 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e4c8041 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e4c8041 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@60611244 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@769e7ee8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@327b636c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@327b636c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@327b636c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@15761df8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@647fd8ce (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6107227e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6107227e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6107227e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b6856dd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1ffe63b9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3e3047e6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3e3047e6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3e3047e6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@b62fe6d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@358c99f5 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6156496 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6156496 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6156496 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5c1a8622 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7c0c77c7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2cf7ab (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2cf7ab (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2cf7ab (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bd40a57 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@14a2f921 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@657c8ad9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@23282c25 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1e802ef9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4b168fa9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4b168fa9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4b168fa9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3ee0fea4 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1f0f1111 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@53ca01a2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@53ca01a2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@53ca01a2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@e50a6f6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@96def03 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2d9d4f9d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2d9d4f9d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2d9d4f9d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@161b062a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@794cb805 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@691a7f8f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@691a7f8f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@691a7f8f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@16aa0a0a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@20d28811 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5ef60048 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5ef60048 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5ef60048 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@17c386de (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4a22f9e2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6b419da (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@568bf312 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@212bf671 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7d68ef40 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@184cf7cf (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@105fece7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@223f3642 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@40e6dfe1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5bd03f44 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@40e6dfe1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5bd03f44 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@40e6dfe1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5bd03f44 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@40e6dfe1 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5bd03f44 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2145433b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@233fe9b6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@35083305 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@60dcc9fe (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@ca263c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3901d134 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@29f69090 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4b0b0854 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@29f69090 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4b0b0854 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@29f69090 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@cb644e (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4b0b0854 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75c072cb (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@43ee72e6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3bbc39f8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4c40b76e (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@52aa2946 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@145eaa29 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@49d904ec (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@44a664f2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5ae50ce6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@77e9807f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@35047d03 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@770c2e6b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1d119efb (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@29ba4338 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@bef2d72 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@62e136d3 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1e397ed7 (name: Note) (instanceClassName: null) (abstract: false, interface: false)) --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7f77e91b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@67b92f0a (name: Note) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@51b7e5df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@6fd02e5 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ResourceAttachmentChange /Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/0/modelio/Analyst Properties/Analyst Properties.property
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: MOVE org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: ADD org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2b4a2ec7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@523884b2 (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false)) --- null
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4313f5bc (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4313f5bc (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@778d1062 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@778d1062 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@56528192 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@56528192 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1ed1993a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1ed1993a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@59d016c9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@59d016c9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@60d8c9b7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@60d8c9b7 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5e316c74 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@419c5f1a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@419c5f1a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@71b1176b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@71b1176b (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@78aab498 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@78aab498 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7c469c48 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7c469c48 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@d4342c2 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5bfa9431 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5bfa9431 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b07a0d6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b07a0d6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@75f32542 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@79ca92b9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@79ca92b9 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@23f7d05d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@23f7d05d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@69930714 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@55a561cf (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@55a561cf (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6646153 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@6646153 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@475e586c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@475e586c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3a079870 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3a079870 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3b2da18f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2aece37d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2aece37d (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5af97850 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@5af97850 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@780cb77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@780cb77 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@17c1bced (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@17c1bced (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@14ec4505 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@14ec4505 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@48524010 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@48524010 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ed0fbae (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@589b3632 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@589b3632 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@52e677af (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@52e677af (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@55a1c291 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@55a1c291 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1b083826 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1b083826 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@123f1134 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@123f1134 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1f1c7bf6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1f1c7bf6 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@4ae3c1cd (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7f9fcf7f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@7f9fcf7f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@15bb6bea (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@15bb6bea (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ea6137 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2ea6137 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@667a738 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@667a738 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@55040f2f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@55040f2f (eClass: org.eclipse.emf.ecore.impl.EClassImpl@7b49cea0 (name: PropertyDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@448ff1a8 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@60704c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5bc79255 (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@60704c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5bc79255 (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@65466a6a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@65466a6a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@65466a6a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@65466a6a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@65466a6a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@65466a6a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@65466a6a (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1c93084c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1c93084c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1c93084c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1c93084c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1c93084c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1c93084c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1c93084c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1c93084c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@1c93084c (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c130745 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c130745 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c130745 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c130745 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c130745 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c130745 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@3c130745 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@1f28c152 (name: PropertyTableDefinition) (instanceClassName: null) (abstract: false, interface: false))
+ResourceAttachmentChange /Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/1/modelio/Analyst Properties/Analyst Properties.property
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@564718df (eClass: org.eclipse.emf.ecore.impl.EClassImpl@a67c67e (name: PropertyContainer) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@57c758ac (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5bc79255 (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@57c758ac (eClass: org.eclipse.emf.ecore.impl.EClassImpl@5bc79255 (name: TaggedValue) (instanceClassName: null) (abstract: false, interface: false))
+ResourceAttachmentChange /Users/rwei/Documents/epsilon_workspace/emf.compare.modelio/model/1/modelio/Analyst Properties/Analyst Properties.xmi
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2667f029 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@627551fb (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2667f029 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@627551fb (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2667f029 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@627551fb (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2667f029 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@627551fb (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: DELETE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2667f029 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@627551fb (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false))
+ReferenceChange
+LEFT: CHANGE null --- org.eclipse.emf.ecore.impl.DynamicEObjectImpl@2667f029 (eClass: org.eclipse.emf.ecore.impl.EClassImpl@627551fb (name: AnalystProject) (instanceClassName: null) (abstract: false, interface: false))
