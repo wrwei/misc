@@ -4,7 +4,7 @@ Bundle-Name: emf.compare.modelio
 Bundle-SymbolicName: emf.compare.modelio; singleton:=true
 Bundle-Version: 0.1.0.qualifier
 Require-Bundle: org.eclipse.emf.ecore,
- org.eclipse.emf.compare;bundle-version="3.5.0",
+ org.eclipse.emf.compare;bundle-version="3.3.1",
  org.eclipse.emf.ecore.xmi;bundle-version="2.11.1",
  org.eclipse.compare.core;bundle-version="3.5.500",
  org.apache.log4j;bundle-version="1.2.15",

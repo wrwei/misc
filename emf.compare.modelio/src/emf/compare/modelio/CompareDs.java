@@ -31,7 +31,6 @@ import org.eclipse.emf.ecore.EPackage;
 import org.eclipse.emf.ecore.resource.Resource;
 import org.eclipse.emf.ecore.resource.ResourceSet;
 import org.eclipse.emf.ecore.resource.impl.ResourceSetImpl;
-import org.eclipse.emf.ecore.util.EcoreUtil;
 import org.eclipse.emf.ecore.xmi.impl.XMIResourceFactoryImpl;
 
 import emf.compare.modelio.util.PathHelper;
@@ -64,7 +63,9 @@ public class CompareDs {
 					remark += "AttributeChange " + change.getAttribute() + " - " + change.getValue();
 				}
 				if (diff instanceof ReferenceChange) {
-					remark += "ReferenceChange";
+					
+					ReferenceChange change = (ReferenceChange) diff;
+					remark += "ReferenceChange" + change.getReference() + " - " + change.getValue();
 				}
 				if (diff instanceof FeatureMapChange) {
 					FeatureMapChange change = (FeatureMapChange) diff;
@@ -126,25 +127,26 @@ public class CompareDs {
 		
 		System.out.println("started loading models...");
 
-		ArrayList<String> paths = pathHelper.listEverything(absolutePath);
+		ArrayList<String> paths = PathHelper.listEverything(absolutePath);
 		ArrayList<String> pathsToIgnore = new ArrayList<String>();
 		L1: for(int i=0; i < paths.size(); i++)
 		{
-			URI uri = URI.createURI(paths.get(i));
+			URI uri = URI.createFileURI(paths.get(i));
 			String path = paths.get(i);
-			if (contains(path, pathsToIgnore)) {
-				continue L1;
-			}
-			for(Resource resource: resourceSet.getResources())
-			{
-				if (uri.lastSegment().equals(resource.getURI().lastSegment())) {
-					System.out.println(uri.lastSegment() + "-" + resource.getURI().lastSegment());
-					pathsToIgnore.add(path);
-					continue L1;
-				}
-			}
 			resourceSet.getResource(uri, true);
-			EcoreUtil.resolveAll(resourceSet);
+//			if (contains(path, pathsToIgnore)) {
+//				continue L1;
+//			}
+//			for(Resource resource: resourceSet.getResources())
+//			{
+//				if (uri.lastSegment().equals(resource.getURI().lastSegment())) {
+//					System.out.println(uri.lastSegment() + "-" + resource.getURI().lastSegment());
+//					pathsToIgnore.add(path);
+//					continue L1;
+//				}
+//			}
+//			resourceSet.getResource(uri, true);
+//			EcoreUtil.resolveAll(resourceSet);
 		}
 		System.out.println("finished loading models...");
 	}
