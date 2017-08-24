@@ -1,4 +1,4 @@
-package emf.compare.modelio;
+package emf.compare.modelio.util;
 
 import org.eclipse.emf.common.notify.Notification;
 import org.eclipse.emf.common.util.URI;

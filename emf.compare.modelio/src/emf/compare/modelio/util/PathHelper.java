@@ -105,7 +105,6 @@ public class PathHelper {
 	
 	public static File findCounterPart(String fileName, String directoryName)
 	{
-		File directory = new File(directoryName);
 		ArrayList<File> fList = PathHelper.listAllFiles(directoryName);
 		for(File file: fList)
 		{
